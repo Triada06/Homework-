@@ -1,19 +1,23 @@
-﻿namespace HW
+﻿public class Student
 {
-    internal class Student
+    public string Name { get; set; }
+    public string Surname { get; set; }
+    public int Age { get; set; }
+
+    public Student(string name, string surname, int age)
     {
-        public string Name { get; set; }
-        public string Surname { get; set; }
+        Name = name;
+        Surname = surname;
+        Age = age;
+    }
 
-        public int Age { get; set; }
+    public static bool operator >(Student s1, Student s2)
+    {
+        return s1.Age > s2.Age;
+    }
 
-
-
-        public Student(string Name, string Surname , int Age)
-        {
-            this.Name = Name;
-            this.Surname = Surname;
-            this.Age = Age;
-        }
+    public static bool operator <(Student s1, Student s2)
+    {
+        return s1.Age < s2.Age;
     }
 }

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nizam\\Documents\\C#\\New folder\\HW\\",
+  "WorkspaceRootPath": "C:\\Users\\nizam\\Documents\\C#\\HW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|c:\\users\\nizam\\documents\\c#\\new folder\\hw\\hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|solutionrelative:hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|c:\\users\\nizam\\documents\\c#\\new folder\\hw\\hw\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|c:\\users\\nizam\\documents\\c#\\hw\\hw\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|solutionrelative:hw\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|c:\\users\\nizam\\documents\\c#\\new folder\\hw\\hw\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|c:\\users\\nizam\\documents\\c#\\hw\\hw\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|solutionrelative:hw\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|c:\\users\\nizam\\documents\\c#\\hw\\hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5667E13-94D8-4B87-97DC-0D77B4ED63E8}|HW\\HW.csproj|solutionrelative:hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\New folder\\HW\\HW\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\HW\\HW\\Student.cs",
               "RelativeDocumentMoniker": "HW\\Student.cs",
-              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\New folder\\HW\\HW\\Student.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\HW\\HW\\Student.cs",
               "RelativeToolTip": "HW\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T12:34:08.646Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GroupMate.cs",
-              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\New folder\\HW\\HW\\GroupMate.cs",
-              "RelativeDocumentMoniker": "HW\\GroupMate.cs",
-              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\New folder\\HW\\HW\\GroupMate.cs",
-              "RelativeToolTip": "HW\\GroupMate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T12:35:29.303Z"
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GroupMate.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\HW\\HW\\GroupMate.cs",
+              "RelativeDocumentMoniker": "HW\\GroupMate.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\HW\\HW\\GroupMate.cs",
+              "RelativeToolTip": "HW\\GroupMate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA+wAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:35:29.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\New folder\\HW\\HW\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\HW\\HW\\Program.cs",
               "RelativeDocumentMoniker": "HW\\Program.cs",
-              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\New folder\\HW\\HW\\Program.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\HW\\HW\\Program.cs",
               "RelativeToolTip": "HW\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T12:31:21.129Z",
               "EditorCaption": ""

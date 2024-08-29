@@ -12,3 +12,18 @@ C:\Users\nizam\Documents\C#\New folder\HW\HW\obj\Debug\net8.0\refint\HW.dll
 C:\Users\nizam\Documents\C#\New folder\HW\HW\obj\Debug\net8.0\HW.pdb
 C:\Users\nizam\Documents\C#\New folder\HW\HW\obj\Debug\net8.0\HW.genruntimeconfig.cache
 C:\Users\nizam\Documents\C#\New folder\HW\HW\obj\Debug\net8.0\ref\HW.dll
+C:\Users\nizam\Documents\C#\HW\HW\bin\Debug\net8.0\HW.exe
+C:\Users\nizam\Documents\C#\HW\HW\bin\Debug\net8.0\HW.deps.json
+C:\Users\nizam\Documents\C#\HW\HW\bin\Debug\net8.0\HW.runtimeconfig.json
+C:\Users\nizam\Documents\C#\HW\HW\bin\Debug\net8.0\HW.dll
+C:\Users\nizam\Documents\C#\HW\HW\bin\Debug\net8.0\HW.pdb
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\HW.AssemblyInfoInputs.cache
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\HW.AssemblyInfo.cs
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\HW.sourcelink.json
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\HW.dll
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\refint\HW.dll
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\HW.pdb
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\HW.genruntimeconfig.cache
+C:\Users\nizam\Documents\C#\HW\HW\obj\Debug\net8.0\ref\HW.dll

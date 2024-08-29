@@ -1,14 +1,12 @@
-﻿using HW;
-
-internal class GroupMate 
+﻿
+public class GroupMate
 {
     private Student[] students;
 
     public GroupMate()
     {
-        students = new Student[0];
+        students = new Student[0]; 
     }
-
 
 
 
@@ -19,58 +17,27 @@ internal class GroupMate
         students[students.Length - 1] = student;
     }
 
-
-
-
-    public Student[] Sort(Student[] mates)
+    public void Sort()
     {
-        int length = mates.Length;
-        int[] sortedArrayByAge = new int[length];
-        Student[] sortedArray = new Student[length];
-
-
-        for (int i = 0; i < length; i++)
+        for (int i = 0; i < students.Length - 1; i++)
         {
-            sortedArrayByAge[i] = mates[i].Age;
-        }
-
-        Array.Sort(sortedArrayByAge);
-        Array.Reverse(sortedArrayByAge);
-
-        bool[] isSorted = new bool[length];
-
-        int k = 0;
-
-        for (int i = 0; i < length; i++)
-        {
-            for (int j = 0; j < length; j++)
+            for (int j = 0; j < students.Length - 1 - i; j++)
             {
-                if (mates[j].Age == sortedArrayByAge[i] && !isSorted[j])
+                if (students[j] < students[j + 1])
                 {
-                    sortedArray[k] = mates[j];
-                    isSorted[j] = true;
-                    k++;
-                    break;
+                    Student temp = students[j];
+                    students[j] = students[j + 1];
+                    students[j + 1] = temp;
                 }
             }
         }
-
-        return sortedArray;
     }
 
-
-    public void DisplayStudents(Student[] mates)
+    public void DisplayStudents()
     {
-        foreach (var student in mates)
+        foreach (var student in students)
         {
             Console.WriteLine($"Name: {student.Name}, Surname: {student.Surname}, Age: {student.Age}");
         }
-
-    }
-
-
-    public Student[] GetStudents()
-    {
-        return students;
     }
 }
